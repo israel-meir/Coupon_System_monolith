@@ -1,7 +1,0 @@
-In this application we have created a platform that allows companies to offer coupons for sale, and for customers to purchase them.
-The application was built as a monolith so that all classes were built in the same project
-
-We used:
-java
-spring boot
-MySQL
